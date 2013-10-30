@@ -1,7 +1,7 @@
 {
   "name": "string-utils",
   "description": "String add-ons for Node.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "string",
     "utils",
@@ -40,5 +40,6 @@
   "engines": {
     "node": ">0.4.0"
   },
-  "main": "./lib/string-utils"
+  "main": "./lib/string-utils",
+  "readme": "@README.md"
 }
