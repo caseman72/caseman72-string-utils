@@ -40,5 +40,5 @@
   "engines": {
     "node": ">0.4.0"
   },
-  "main": "./lib/date-utils"
+  "main": "./lib/string-utils"
 }
