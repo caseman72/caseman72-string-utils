@@ -1,0 +1,10 @@
+{
+  "name": "string-utils",
+  "version": "0.1.1",
+  "main": "lib/string-utils.min.js",
+  "ignore": [
+    "package.json",
+    ".gitignore",
+    "test"
+  ]
+}

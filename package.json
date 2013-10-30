@@ -1,0 +1,44 @@
+{
+  "name": "string-utils",
+  "description": "String add-ons for Node.js",
+  "version": "0.1.1",
+  "keywords": [
+    "string",
+    "utils",
+    "string-utils"
+  ],
+  "author": {
+    "name": "Casey Manion",
+    "email": "casey@manion.com",
+    "url": "http://manion.org/"
+  },
+  "homepage": "http://github.com/caseman72/string-utils/",
+  "contributors": [
+    {
+      "name": "Casey Manion",
+      "email": "casey@manion.com",
+      "url": "http://manion.org/"
+    }
+  ],
+  "license": [
+    "PDU"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/caseman72/string-utils.git"
+  },
+  "bugs": {
+    "url": "http://github.com/caseman72/string-utils/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">0.4.0"
+  },
+  "main": "./lib/date-utils"
+}
