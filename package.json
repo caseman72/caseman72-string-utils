@@ -1,7 +1,7 @@
 {
   "name": "caseman72-string-utils",
   "description": "String add-ons for Node.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [
     "string",
     "utils",
