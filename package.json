@@ -1,5 +1,5 @@
 {
-  "name": "string-utils-cwm",
+  "name": "@caseman72/string-utils",
   "description": "String add-ons for Node.js",
   "version": "0.1.4",
   "keywords": [
